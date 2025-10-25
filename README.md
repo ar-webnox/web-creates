@@ -24,13 +24,13 @@
 📝 **What:** Responsive Purplish Demo Webite short one page created with HTML and CSS.
 <br>
 
-⭐ **RuFlex**<br>
+⭐ **Ruflex**<br>
 🔗 [Web Link 1](https://ruflex.vercel.app/) • [Web Link 2](https://ruflex.netlify.app/)<br>
 ⚙️ **Stack:** HTML + CSS + RWD<br>
 📝 **What:** Fully responsive RoFlex login form website built using pure HTML and CSS.
 <br>
 
-⭐ **DRAGOFY**<br>
+⭐ **Dragofy**<br>
 🔗 [Web Link 1](https://dragofy.vercel.app/) • [Web Link 2](https://dragofy.netlify.app/)<br>
 ⚙️ **Stack:** HTML + CSS + RWD<br>
 📝 **What:** Fully responsive DRAGON Website with HTML and CSS.
